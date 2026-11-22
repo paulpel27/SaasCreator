@@ -1,0 +1,6 @@
+{
+  "name": "SaasCreator",
+  "description": "An elegant, neomorphic no-code SaaS builder and relational visual schema workspace powered by generative AI. Design relational tables, master-detail entry forms, dashboards, and custom routing menus instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
